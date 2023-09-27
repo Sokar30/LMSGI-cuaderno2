@@ -1,3 +1,6 @@
 # LMSGI-cuaderno
 Cuaderno lenguaje de marcas 
-## GorilaGlue
+# Cuaderno lenguaje de marcas
+## Tabla de contenidos
+
+## Enlaces de interes 
